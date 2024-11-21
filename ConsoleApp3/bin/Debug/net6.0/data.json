@@ -1,0 +1,49 @@
+{
+  "Clients": [
+    {
+      "Fullname": "Bruh",
+      "Password": "Bruh.12345",
+      "Email": "@.",
+      "Address": null,
+      "products": null,
+      "bids": null,
+      "firstTimeLogin": false
+    },
+    {
+      "Fullname": "David",
+      "Password": "Password.10",
+      "Email": "david@gmail.com",
+      "Address": {
+        "Unit": "0",
+        "Streetnumber": "4",
+        "Streetname": "Emu",
+        "Streetsuffix": "St",
+        "City": "Brisbane",
+        "Postcode": "4000",
+        "State": "QLD"
+      },
+      "products": [
+        {
+          "Name": "lochitik",
+          "Description": "lochitik",
+          "price": "4",
+          "bid": null
+        },
+        {
+          "Name": "SSD",
+          "Description": "1TB",
+          "price": "",
+          "bid": null
+        },
+        {
+          "Name": "SSD",
+          "Description": "1TB",
+          "price": "200.95",
+          "bid": null
+        }
+      ],
+      "bids": null,
+      "firstTimeLogin": false
+    }
+  ]
+}
